@@ -186,8 +186,7 @@ This project is licensed under the [Apache 2](LICENSE) license. Please see
 
 ### Authors
 
-This project is initialized and mainly developed by Lei Zhang
-([@antiagainst][me]).
+This project is initialized and mainly developed by [Lei Zhang][me].
 
 [img-crate-rspirv]: https://img.shields.io/crates/v/rspirv.svg
 [img-doc-rspirv]: https://docs.rs/rspirv/badge.svg
